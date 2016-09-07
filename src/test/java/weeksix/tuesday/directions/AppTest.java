@@ -1,4 +1,4 @@
-package weeksix.monday.directions;
+package weeksix.tuesday.directions;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
